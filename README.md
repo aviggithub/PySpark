@@ -18,7 +18,7 @@ The PySpark framework is way faster than other traditional frameworks for Big Da
 #### Works well with RDDs: 
 Python programming language is dynamically typed, which helps when working with RDDs(Resilient Distributed Datasets ).
 
-####RDDs (Resilient Distributed Datasets) – 
+#### RDDs (Resilient Distributed Datasets) – 
 RDDs are immutable collection of objects. Since we are using PySpark, these objects can be of multiple types. These will become more clear further.
 
 #### STEPS:
